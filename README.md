@@ -15,7 +15,8 @@ Rural city types have the highest average fare per driver at $55.49 per ride, an
 
 ![Data Summary Graph by Fare](https://raw.githubusercontent.com/jmsuarez1997/PyBer_Analysis/main/analysis/PyBer_fare_summary.png)
 ## Summary
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+I recommend increasing the number of drivers in rural city types either with advertisements or cash incentives. In rural cities, the average fare per driver is 3.34 times higher than in urban city types. This indicates more drivers are needed. 
 
-I recomend increasing the number of drivers in rurual city types either with advertisement or cash incentives. The average fares per driver in rural cites is 3.34 times higher than urban city types. This is an indication that you may need more drivers. 
+The second recommendation is to increase the fares in rural areas to incentivize more drivers. The prices between suburban and urban city types are only 1.11 and 1.41, respectively, which is lower than expected when comparing the difference in average fare per driver.  
 
+Lastly, I recommend lowering the fare price for suburban customers to incentivize more customers to request rides. Hopefully, lowering costs in the short term will get new people to use the app, and that will, in the long term, increase the total revenue. 
